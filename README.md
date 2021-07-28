@@ -17,7 +17,7 @@ git clone https://github.com/cheesemakerfarm/cheeseswap-sdk.git
 Move into the cheeseswap-sdk working directory
 
 ```sh
-cd cheeseswap-sdk/
+cd sonixswap-sdk/
 ```
 
 Install dependencies
