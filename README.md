@@ -1,4 +1,4 @@
-# CheeseSwap SDK
+# SonixSwap SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/cheesemakerfarm/cheeseswap-sdk.git/workflows/CI/badge.svg)](https://github.com/cheesemakerfarm/cheeseswap-sdk.git)
@@ -11,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/cheesemakerfarm/cheeseswap-sdk.git
+https://github.com/blockchainGuru125/sonixswap-sdk.git
 ```
 
 Move into the cheeseswap-sdk working directory
 
 ```sh
-cd cheeseswap-sdk/
+cd sonixswap-sdk/
 ```
 
 Install dependencies
